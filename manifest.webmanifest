@@ -1,0 +1,32 @@
+{
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "https://www.solarmurah.com",
+    "start_url": "https://www.solarmurah.com",
+    "name": "Solarmurah.com",
+    "short_name": "Solarmurah.com",
+    "description": "Supplier BBM Solar Industri HSD Non Subsidi Murah by PT. BJB",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-ZR1rM8hz3_g/YDHtrQP5eaI/AAAAAAAAAEE/kAbOvHZuUDkoi4u0PA_RxJL_VKeG5y7WACLcBGAsYHQ/s0/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-s71oUjO4t8k/YDHtrcqkSYI/AAAAAAAAAD8/jNTN7iguq6cWhCr0qLjsZ1l6gK-EqBtzwCLcBGAsYHQ/s0/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-aiEC-2okkdg/YDHtrecxbQI/AAAAAAAAAEA/FmDMYXGrhfUPJOP8qXigs2_JY8sPJKShwCLcBGAsYHQ/s0/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-VvP0rb-FUL8/YDHtstqgFXI/AAAAAAAAAEI/vO1lNx6Mes4i3MBmgxkN_ePWmUhZHvH2QCLcBGAsYHQ/s0/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
